@@ -1,1 +1,1 @@
-![Alt Text](https://bitbucket.org/nbthales/lista_tarefas/raw/86f979d407cc9adce46d6a852435e16ab9c0f531/images/lista_tarefas.gif)
+![Alt Text](https://github.com/nbthales/lista_tarefas/blob/master/images/lista_tarefas.gif?raw=true)
